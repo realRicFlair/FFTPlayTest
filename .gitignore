@@ -1,0 +1,8 @@
+# Ignore Visual Studio Code directory
+.vscode/
+
+# Ignore object files
+*.o
+
+# Ignore program
+program
